@@ -15,8 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Trabajo Ivan Castro Ruiz\Informacion ICR\Programacion - ASP.NET CORE MVC\AppContactos
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Trabajo Ivan Castro Ruiz/Informacion ICR/Programacion - ASP.NET CORE MVC/AppContactos/Views/Home/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb3JyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Trabajo Ivan Castro Ruiz/Informacion ICR/Programacion - ASP.NET CORE MVC/AppContactos/Views/Home/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabajo Ivan Castro Ruiz/Informacion ICR/Programacion - ASP.NET CORE MVC/AppContactos/Views/Home/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabajo Ivan Castro Ruiz/Informacion ICR/Programacion - ASP.NET CORE MVC/AppContactos/Views/Home/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Trabajo Ivan Castro Ruiz/Informacion ICR/Programacion - ASP.NET CORE MVC/AppContactos/Views/Home/Index.cshtml]
